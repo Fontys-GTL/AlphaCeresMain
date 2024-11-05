@@ -11,3 +11,12 @@ Repository with documentation, settings etc
 
 1. Install usbtin with instructions from [rox-usbtin repo](https://gitlab.com/roxautomation/tools/usbtin)
 2. Install [odrive-can](https://gitlab.com/roxautomation/components/odrive-can)
+
+## Notes
+
+* odrive can was not working with 0.5.1 (unkown firmware).
+* updated firmware by
+    - shut down drive
+    - set dip switch in DFU mode
+    - run `odrivetool dfu`
+    - power cycle drive
