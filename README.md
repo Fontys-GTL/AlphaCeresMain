@@ -5,3 +5,8 @@ Repository with documentation, settings etc
 
 
 * [docs ROX](https://roxautomation.gitlab.io/machines/almighty/almighty-gps)
+
+
+## Integration notes 2024.11.05
+
+1. Install usbtin with instructions from [rox-usbtin repo](https://gitlab.com/roxautomation/tools/usbtin)
