@@ -5,7 +5,7 @@ Repository with documentation, settings etc
 
 
 * [docs ROX](https://roxautomation.gitlab.io/machines/almighty/almighty-gps)
-
+* [old ROS repo](https://github.com/Fontys-GTL/AlphaCeresROS)
 
 ## Integration notes 2024.11.05
 
@@ -20,3 +20,6 @@ Repository with documentation, settings etc
     - set dip switch in DFU mode
     - run `odrivetool dfu`
     - power cycle drive
+* versions:
+    - odrivetool (0.6.8)
+    - firmware (0.5.6)
