@@ -1,6 +1,8 @@
 # AlphaCeres
 Repository with documentation, settings etc
 
+Code for the docker container that controls the odrives can be found [here](https://github.com/Fontys-GTL/AlphaCeresMotion)
+
 ## References 
 
 
